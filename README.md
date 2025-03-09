@@ -49,7 +49,7 @@ I follow a structured Acceptance Criteria format:
 **Then** the counter should automatically reset  
 
 ## Image and links Project here:
-(s)[figure/board_jira.png]
+![s](figure/board_jira.png)
 
 
 
