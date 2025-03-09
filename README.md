@@ -1,9 +1,9 @@
 # 🎯lab-agile-planning
 
-## 🚀 Project Overview  
+## Project Overview  
 **lab-agile-planning** is a project focused on **Agile project management and backlog planning**. I did in Jira, ZenHub (GitHub ext)
 
-## 📌 Key Features  
+## Key Features  
 - **Structured User Stories** follow the INVEST principle  
 - **Story Point estimation** using T-Shirt sizing (XS:3 , S:5, M:8, L:13, XL:21)  
 - **Board setup** with workflow of: New issues, Backlog, Sprint, In-process, Review, Done, Close 
@@ -16,7 +16,7 @@ It includes the technical and business constraints.
 It states any dependencies or assumptions about the system.
 It clarifies expectations that may not be directly mentioned in the User Story.
 ```
-## 📝 User Story Structure  
+## User Story Structure  
 I follow a structured User Story format:
 
 ```gherkin
@@ -49,7 +49,7 @@ I follow a structured Acceptance Criteria format:
 **Then** the counter should automatically reset  
 
 ## Image and links Project here:
-(s)[
+![s](figure/board_jira.png)
 
 
 
