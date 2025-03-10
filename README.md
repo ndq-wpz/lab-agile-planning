@@ -55,14 +55,14 @@ I follow a structured Acceptance Criteria format:
 ### Deployed in Jira
 #### Workflow Board in Jira
 ![s](figure/board_jira.png)
-! [View directly the Board on Jira](https://nguyendinhquang2004adc.atlassian.net/jira/software/projects/LAP/boards/3)
+##### [View directly the Board on Jira](https://nguyendinhquang2004adc.atlassian.net/jira/software/projects/LAP/boards/3)
 
 #### All issues, sprints of Project
 ![s](figure/issues_jira.png)
 
 #### Workflow Board in ZenHub
 ![s](figure/board_zenhub.png)
-! [View directly the Board on Jira](https://github.com/ndq-wpz/lab-agile-planning/issues#workspaces/ndq-67cab8d47be48a001c1ba418/board?repos=944383661)
+##### [View directly the Board on Jira](https://github.com/ndq-wpz/lab-agile-planning/issues#workspaces/ndq-67cab8d47be48a001c1ba418/board?repos=944383661)
 
 
 
