@@ -62,7 +62,7 @@ I follow a structured Acceptance Criteria format:
 
 #### Workflow Board in ZenHub
 ![s](figure/board_zenhub.png)
-##### [View directly the Board on Jira](https://github.com/ndq-wpz/lab-agile-planning/issues#workspaces/ndq-67cab8d47be48a001c1ba418/board?repos=944383661)
+##### [View directly the Board on ZenHub](https://github.com/ndq-wpz/lab-agile-planning/issues#workspaces/ndq-67cab8d47be48a001c1ba418/board?repos=944383661)
 
 
 
